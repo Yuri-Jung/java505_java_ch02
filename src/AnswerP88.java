@@ -41,7 +41,7 @@ public class AnswerP88 {
             case "B":
                 System.out.println();
 
-                
+
 //                3번문제
                 int number = scanner.nextInt();
                 int first = number/10; //10의 자리 숫자 저장
@@ -74,7 +74,6 @@ public class AnswerP88 {
                 System.out.println("박수없음");
             }
         }
-
-       }
+    }
     }
 
